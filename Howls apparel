@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lalmuanawma's Personal Webpage</title>
+    <style>
+        body {
+            background-color: #1a1a2e; /* Dark background for a futuristic look */
+            color: #ffffff; /* White text */
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        h2 {
+            font-size: 2em;
+            margin-top: 10px;
+        }
+        .content {
+            max-width: 800px;
+            margin: auto;
+            text-align: left;
+        }
+        .section {
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #0f3460; /* Slightly lighter background for sections */
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lalmuanawma</h1>
+        <h2>Video Editor & Gamer</h2>
+    </header>
+
+    <div class="content">
+        <div class="section" id="about">
+            <h3>About Me</h3>
+            <p>Hello! I'm Lalmuanawma, a passionate video editor who loves to play games in my free time. I enjoy creating engaging content and exploring the world of digital media.</p>
+        </div>
+
+        <div class="section" id="projects">
+            <h3>My Projects</h3>
+            <p>Check out my custom T-shirt printing website where you can find unique designs and prints!</p>
+            <a href="https://howlsapparel.com" target="_blank" style="color: #ffffff;">Visit My T-Shirt Printing Website</a>
+        </div>
+
+        <div class="section" id="contact">
+            <h3>Contact Me</h3>
+            <p>If you'd like to get in touch, feel free to reach out via email: <a href="mailto:muanahauzel896@gmail.com" style="color: #ffffff;">youremail@example.com</a></p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Lalmuanawma. All rights reserved.</p>
+    </footer>
+</body>
+</html>
